@@ -1,4 +1,4 @@
 module.exports = {
     outputDir: 'docs',
-    publicPath: process.env.NODE_ENV === "production" ? "/Psychologists":"/" 
+    publicPath: process.env.NODE_ENV === "production" ? "/mask-map":"/" 
 }
